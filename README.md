@@ -6,6 +6,10 @@ They claim that these are simply 'stubs' or 'placeholders' for the actual apps a
 
 Personally, I don't dig these packages and want nothing to do with them on my device. You can use this simple bash script to remove them.
 
+## Run Script
+
+It's a bash script. Run main.bash, simple pimple.
+
 ## Requirements
 
 1. Install ADB on your computer, <a href="https://www.xda-developers.com/install-adb-windows-macos-linux/">here's how</a>

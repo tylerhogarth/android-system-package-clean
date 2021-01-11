@@ -10,6 +10,22 @@ Personally, I don't dig these packages and want nothing to do with them on my de
 
 It's a bash script. Run main.bash, simple pimple.
 
+Params:
+1. all
+2. facebook
+3. instagram
+
+Run:
+````
+bash main.bash <param>
+````
+
+Example:
+
+````
+bash main.bash all
+````
+
 ## Requirements
 
 1. Install ADB on your computer, <a href="https://www.xda-developers.com/install-adb-windows-macos-linux/">here's how</a>
